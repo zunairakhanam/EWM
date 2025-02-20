@@ -1,0 +1,21 @@
+Software Requirements Specification (SRS) for Event Management Website
+
+1. Introduction
+
+1.1 Purpose
+The purpose of this document is to outline the software requirements for the Event Management Website. The website will allow event organizers to manage and promote events while enabling users to browse, register, and purchase tickets for events.
+
+1.2 Scope
+This website will include features such as event listings, registration, ticketing, user accounts, and an event management dashboard for organizers. It will also offer integration with social media, payment systems, and other third-party tools.
+
+1.3 Definitions, Acronyms, and Abbreviations
+Event: A specific gathering, function, or activity that users can register for or attend.
+User: Any individual who visits the website, registers for events, or purchases tickets.
+Organizer: An individual or organization managing and creating events on the platform.
+Ticketing System: The system through which users purchase tickets for events.
+Admin Dashboard: The backend interface for event organizers to manage and edit event details.
+
+1.4 References
+Bootstrap Framework: https://getbootstrap.com
+Stripe API Documentation: https://stripe.com/docs/api
+Google Maps API: https://developers.google.com/maps/documentation
